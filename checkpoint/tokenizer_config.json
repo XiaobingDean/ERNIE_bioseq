@@ -1,0 +1,1 @@
+{"do_lower_case": true, "vocab_file": "/home/aistudio/.paddlenlp/models/ernie-2.0-en/vocab.txt", "init_class": "ErnieTokenizer"}
