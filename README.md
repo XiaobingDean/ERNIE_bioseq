@@ -1,2 +1,2 @@
-# ERINE_bioseq
-Fine tune on ERINE in bioseq classification
+# ERNIE_bioseq
+Fine tune on ERNIE in bioseq classification
